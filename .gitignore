@@ -266,3 +266,8 @@ intelligent-text-extraction/train/images/93329540.png
 intelligent-text-extraction/train/images/93351929_93351931.png
 intelligent-text-extraction/train/images/93380187.png
 intelligent-text-extraction/train/images/93455715.png
+.DS_Store
+ground_truth_annotations/00040534.json
+intelligent-text-extraction/.DS_Store
+intelligent-text-extraction/train/.DS_Store
+output_easyocr/00040534.json
